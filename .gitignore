@@ -4,6 +4,7 @@
 .hgsvn
 *.komodoproject
 .hg
+*.wpr
 
 #build and log files
 ###############################
@@ -19,6 +20,7 @@
 .DS_Store
 ._*
 .Trash
+PloneController.app
 
 #crazy files
 ###############################
@@ -83,6 +85,5 @@ dist
 *.pyc
 *.pyo
 *.tmp*
-
-
+bootstrap.py
 
