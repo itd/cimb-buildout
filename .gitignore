@@ -85,5 +85,5 @@ dist
 *.pyc
 *.pyo
 *.tmp*
-bootstrap.py
+#bootstrap.py
 
