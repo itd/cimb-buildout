@@ -1,0 +1,20 @@
+Install
+================
+
+Install XDV
+install cimb.xdvtheme
+
+
+In the ZMI, go to portal_css
+and set conditions on
+base.css, portlets.css, public.css:
+
+    not:request/HTTP_X_XDV
+
+
+
+
+Configure the XDV theme tool
+=============================
+
+
